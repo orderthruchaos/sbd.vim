@@ -1,9 +1,7 @@
 sbd.vim
 =======
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=orpheelafondlummis&url=https://github.com/orftz/sbd.vim&title=sbd.vim&language=&tags=github&category=software)
-
-**Close buffers smartly**.
+**Close buffers smartly**. [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=orpheelafondlummis&url=https://github.com/orftz/sbd.vim&title=sbd.vim&language=&tags=github&category=software)
 
 Because Vim's vanilla buffer closing/deletion becomes painful as soon as you start working with multiple buffers and windows.
 
